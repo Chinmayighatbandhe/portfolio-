@@ -1,0 +1,252 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 3500px;
+  position: relative;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/gettyimages-1173440230-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .text {
+  position: absolute;
+  top: 451px;
+  left: 206px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 1615px;
+  top: 59px;
+  left: 186px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Audiowide", Helvetica;
+  font-weight: 400;
+  color: #500a88;
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .group {
+  position: absolute;
+  width: 926px;
+  height: 293px;
+  top: 1192px;
+  left: 531px;
+}
+
+.frame .what-is-IRCTC-the {
+  position: absolute;
+  width: 924px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #500a88;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .span {
+  font-weight: 800;
+}
+
+.frame .text-wrapper-2 {
+  font-family: "Istok Web", Helvetica;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.frame .overlap-group-wrapper {
+  position: absolute;
+  width: 358px;
+  height: 947px;
+  top: 1123px;
+  left: 48px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  height: 947px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 357px;
+  height: 947px;
+  top: 0;
+  left: 1px;
+}
+
+.frame .div-2 {
+  align-items: center;
+  gap: 43px;
+  position: absolute;
+  top: 21px;
+  left: 0;
+  border-radius: 34px;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.frame .documentation-menu {
+  position: relative;
+  width: 320px;
+  height: 102px;
+  margin-top: -1px;
+  font-family: "Lato", Helvetica;
+  font-weight: 800;
+  color: #f9f4fa;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .div-3 {
+  align-items: flex-start;
+  gap: 138px;
+  position: relative;
+  flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.frame .element-what-is-IRCTC {
+  position: relative;
+  width: 357px;
+  height: 134px;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #f4d7f9;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  position: relative;
+  width: 357px;
+  height: 134px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #f4d7f9;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 973px;
+  height: 648px;
+  top: 1596px;
+  left: 531px;
+}
+
+.frame .how-IRCTC-works {
+  position: absolute;
+  width: 390px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #510a88;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .the-IRCTC-or-indian {
+  position: absolute;
+  width: 973px;
+  top: 75px;
+  left: 0;
+  font-family: "Istok Web", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  color: #510a88;
+}
+
+.frame .text-wrapper-5 {
+  color: #510a88;
+  text-decoration: underline;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 877px;
+  height: 713px;
+  top: 2285px;
+  left: 528px;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  width: 856px;
+  top: 0;
+  left: 5px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #510a88;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .IRCTC-was {
+  position: absolute;
+  width: 877px;
+  top: 76px;
+  left: 0;
+  font-family: "Istok Web", Helvetica;
+  font-weight: 700;
+  color: #500a88;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .images {
+  position: absolute;
+  width: 448px;
+  height: 203px;
+  top: 1269px;
+  left: 1472px;
+  background-blend-mode: hard-light;
+  object-fit: cover;
+}
